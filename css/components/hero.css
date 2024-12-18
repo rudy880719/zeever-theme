@@ -1,0 +1,8 @@
+.block-hero {
+	background-color: black;
+	padding:  10px 40px;
+}
+
+.block-hero .block-content-wrapper h2 {
+	margin: 20px auto;
+}

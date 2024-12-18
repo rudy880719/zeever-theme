@@ -1,0 +1,289 @@
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.contextual-links li a {
+	font-size: 1rem;
+}
+
+.card,
+.fieldset-wrapper,
+body fieldset {
+	background-color: #3d3838;
+}
+
+/* Buttons */
+
+.progress-bar {
+	background-color: teal;
+}
+
+/* Buttons */
+
+.btn-primary {
+	border-color: #015a2f;
+}
+
+.btn-primary:hover {
+	background-color: #336930;
+	border-color: #0aaa01;
+}
+
+.btn-primary:active {
+	background-color: #113e2b;
+	border-color: #113e2b;
+}
+
+.btn-primary:focus {
+	background-color: #336930;
+	border-color: #0aaa01;
+}
+
+.btn-primary,
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: teal;
+}
+
+.node-webform input.webform-submit,
+a.button {
+	margin-top: 5rem;
+	padding: 1.2rem;
+	background-color: teal;
+  color: white;
+  border: none;
+}
+
+.node-webform input.webform-submit {
+	padding: 1rem 2rem;
+	margin-top: 1rem;
+}
+
+.node-webform input.webform-submit:hover,
+a.button:hover {
+  background-color: grey;
+  color: black;
+}
+
+.node-type-project .l-top.container,
+.node-type-service .l-top.container  {
+	padding: 0px;
+}
+
+.container {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.node-type-service img {
+	filter: invert(1) sepia(1) saturate(5) hue-rotate(180deg);
+}
+
+/* Header */
+
+.l-header a.name.navbar-brand:hover {
+	color: black;
+}
+
+.name.navbar-brand {
+	font-size: 2rem;
+	font-weight: 600;
+	padding: 0;
+	margin: 0;
+	float: none;
+}
+
+.navbar,
+.navbar-collapse,
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+.navbar-nav>li>a {
+	padding: 0;
+	margin: 0;
+}
+
+.l-content {
+	color:  whitesmoke;
+}
+
+.block-system-header,
+.navbar {
+	padding: 0;
+	margin: 0;
+}
+
+/* Front Page Hero Image */
+
+.block-layout-hero a {
+	font-size: 1.6rem;
+}
+
+.block-content-wrapper {
+	text-align: left;
+	display: block;
+}
+
+.block-content-wrapper h2 {
+	margin: 3rem auto;
+	font-weight: 600;
+}
+
+.l-header.region {
+	padding-top:  0px;
+}
+
+.l-header.region .block {
+	padding: 0px;
+}
+
+header .navbar {
+	background-color: white;
+}
+
+/* Backdrop color overrides */
+
+.l-footer.region {
+  background-color: #363636;
+  color:  white;
+}
+
+.l-footer.region a {
+  color: #C9B897;
+}
+
+.l-bottom.region {
+  background-color: #121212;
+  color:  white;
+}
+
+.l-wrapper,
+.front .l-top.region {
+  background-color: black;
+  color: white;
+}
+
+.views-view-accordion {
+	color: white;
+	font-weight: 800;
+}
+
+.views-grid-box {
+  background-color: #3d3838;
+}
+
+.view .views-grid-box h2,
+.view .views-grid-box h3 {
+	font-size: 1.4rem;
+	text-align: center;
+}
+
+.view .views-grid-box a {
+	color: #bcf4f0;
+}
+
+.l-top .block {
+	margin-bottom: 20px;
+	padding-bottom: 0;
+}
+
+.block-smart-blocks-smartblocksheroblock {
+  padding-top: 20px;
+}
+
+.front .l-top.region .container {
+	padding-top: 0;
+}
+
+/* Mini Layouts */
+
+.flexible-row .l-col {
+	padding-top: 0;
+}
+
+.flexible-row .l-col #navbar {
+	padding: 0;
+}
+
+.l-footer .block-mini-layouts-footer-mini-layout ul.nice-menu,
+.flexible-row .l-col #navbar .container {
+	padding:  0;
+	margin-top: 0;
+}
+
+/* Footer */
+
+a.name.navbar-brand {
+  line-height: 2.6rem;
+}
+
+a.name.navbar-brand:hover {
+	color: #C9B897;
+}
+
+/* NODES */
+
+.node-type-service .l-content,
+.node-type-service .l-middle {
+	background-color: #3d3838;
+	padding: 2%;
+	margin:  0;
+}
+
+.node .content {
+	background-color: #3d3838;
+	padding: 3%;
+}
+
+/* Taxonomy View */
+
+.view-header,
+article {
+	background-color: #3d3838;
+	padding:  3%;
+	margin-bottom: 3%;
+}
+
+article.node .content {
+	padding:  0;
+}
+
+/* Top Region - l-wrapper */
+
+.l-wrapper {
+	padding-top: 20px;
+}
+
+/* buttons */
+
+.btn {
+	color: white;
+}
+
+.btn:hover {
+	color: yellow;
+}
+
+.unpublished.node .content,
+.unpublished {
+	background-color: #4a1715;
+}
+
+/*  Services Block */
+
+.views-field-field-services-image img {
+	filter: invert(1) sepia(1) saturate(5) hue-rotate(180deg);
+}
+
+.messages.status {
+    max-width: 1170px;
+    margin: 0 auto;
+}

@@ -1,0 +1,19 @@
+@media (min-width: 768px) {
+  .navbar-left {
+    flex-grow: initial;
+    margin: 0;
+  }
+  .navbar-collapse {
+      margin: initial;
+      justify-content: flex-end !important;
+  }
+}
+
+.l-header .menu-dropdown {
+  padding-bottom: 10px;
+  font-weight: 500;
+}
+
+.navbar {
+  margin-bottom: 0;
+}

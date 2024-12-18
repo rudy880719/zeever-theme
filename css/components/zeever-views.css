@@ -1,0 +1,45 @@
+/* Fix VIEWS UI. */
+.container-inline div {
+  display: inline-block;
+}
+
+.views-display-setting .label {
+  color: #666666;
+  font-size: 12px;
+}
+
+#views-ui-preview-form > div > div,
+#views-ui-preview-form > div > input {
+  float: none;
+}
+
+.views-display-columns > * {
+  margin: 0;
+}
+.views-display-columns > *:first-child {
+  margin: 0px;
+  padding-left:15px;
+}
+
+.views-ui-display-tab-bucket {
+  padding-top: 0px;
+}
+
+.views-ui-display-tab-bucket .dropbutton li > * {
+  padding: 6px 12px;
+}
+
+.views-ui-display-tab-bucket + .views-ui-display-tab-bucket {
+  border-top: 1px solid #ddd;
+}
+
+.views-view-grid-cols-2,
+.views-view-grid-cols-3,
+.views-view-grid-cols-4,
+.views-view-grid-cols-5,
+.views-view-grid-cols-6,
+.views-view-grid-cols-7,
+.views-view-grid-cols-8 {
+  gap: 20px;
+  margin-bottom: 30px;
+}

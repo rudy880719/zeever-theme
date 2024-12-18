@@ -1,0 +1,11 @@
+.field-type-taxonomy-term-reference a {
+	border: 1px solid #0db0a3;
+	padding:  4px;
+	margin-bottom: 14px;
+	font-size: 80%;
+}
+
+.field-type-taxonomy-term-reference .field-item {
+	float: left;
+	margin-right: 15px;
+}

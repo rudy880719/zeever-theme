@@ -1,0 +1,240 @@
+[4316] Log opened at 2024-12-16 12:44:25.670820
+[4316] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.4316'
+[4316] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[4316] [Config] INFO: No shared secret: Activating
+[4316] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[4316] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[4316] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[4316] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.lando.internal:9003.
+[4316] [Step Debug] WARN: Creating socket for 'host.lando.internal:9003', poll success, but error: Operation now in progress (29).
+[4316] [Step Debug] ERR: Could not connect to debugging client. Tried: host.lando.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[4316] Log opened at 2024-12-16 12:44:25.698753
+[4316] [Config] WARN: Can't bind control socket
+[4316] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[4316] [Config] INFO: No shared secret: Activating
+[4316] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[4316] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[4316] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[4316] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.lando.internal:9003.
+[4316] [Step Debug] WARN: Creating socket for 'host.lando.internal:9003', poll success, but error: Operation now in progress (29).
+[4316] [Step Debug] ERR: Could not connect to debugging client. Tried: host.lando.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[4316] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[4316] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[4316] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[4316] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.lando.internal:9003.
+[4316] [Step Debug] WARN: Creating socket for 'host.lando.internal:9003', poll success, but error: Operation now in progress (29).
+[4316] [Step Debug] ERR: Could not connect to debugging client. Tried: host.lando.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[4316] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[4316] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[4316] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[4316] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.lando.internal:9003.
+[4316] [Step Debug] WARN: Creating socket for 'host.lando.internal:9003', poll success, but error: Operation now in progress (29).
+[4316] [Step Debug] ERR: Could not connect to debugging client. Tried: host.lando.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[4316] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[4316] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[4316] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[4316] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.lando.internal:9003.
+[4316] [Step Debug] WARN: Creating socket for 'host.lando.internal:9003', poll success, but error: Operation now in progress (29).
+[4316] [Step Debug] ERR: Could not connect to debugging client. Tried: host.lando.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[4316] Log closed at 2024-12-16 12:44:25.938054
+
+[4345] Log opened at 2024-12-16 12:44:38.582236
+[4345] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.4345'
+[4345] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[4345] [Config] INFO: No shared secret: Activating
+[4345] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[4345] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[4345] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[4345] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.lando.internal:9003.
+[4345] [Step Debug] WARN: Creating socket for 'host.lando.internal:9003', poll success, but error: Operation now in progress (29).
+[4345] [Step Debug] ERR: Could not connect to debugging client. Tried: host.lando.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[4345] Log opened at 2024-12-16 12:44:38.604658
+[4345] [Config] WARN: Can't bind control socket
+[4345] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[4345] [Config] INFO: No shared secret: Activating
+[4345] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[4345] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[4345] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[4345] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.lando.internal:9003.
+[4345] [Step Debug] WARN: Creating socket for 'host.lando.internal:9003', poll success, but error: Operation now in progress (29).
+[4345] [Step Debug] ERR: Could not connect to debugging client. Tried: host.lando.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[4345] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[4345] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[4345] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[4345] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.lando.internal:9003.
+[4345] [Step Debug] WARN: Creating socket for 'host.lando.internal:9003', poll success, but error: Operation now in progress (29).
+[4345] [Step Debug] ERR: Could not connect to debugging client. Tried: host.lando.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[4345] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[4345] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[4345] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[4345] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.lando.internal:9003.
+[4345] [Step Debug] WARN: Creating socket for 'host.lando.internal:9003', poll success, but error: Operation now in progress (29).
+[4345] [Step Debug] ERR: Could not connect to debugging client. Tried: host.lando.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[4345] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[4345] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[4345] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[4345] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.lando.internal:9003.
+[4345] [Step Debug] WARN: Creating socket for 'host.lando.internal:9003', poll success, but error: Operation now in progress (29).
+[4345] [Step Debug] ERR: Could not connect to debugging client. Tried: host.lando.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[4345] Log closed at 2024-12-16 12:44:38.877953
+
+[4651] Log opened at 2024-12-18 13:56:01.118029
+[4651] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.4651'
+[4651] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[4651] [Config] INFO: No shared secret: Activating
+[4651] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[4651] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[4651] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[4651] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.lando.internal:9003.
+[4651] [Step Debug] WARN: Creating socket for 'host.lando.internal:9003', poll success, but error: Operation now in progress (29).
+[4651] [Step Debug] ERR: Could not connect to debugging client. Tried: host.lando.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[4651] Log opened at 2024-12-18 13:56:01.140054
+[4651] [Config] WARN: Can't bind control socket
+[4651] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[4651] [Config] INFO: No shared secret: Activating
+[4651] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[4651] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[4651] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[4651] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.lando.internal:9003.
+[4651] [Step Debug] WARN: Creating socket for 'host.lando.internal:9003', poll success, but error: Operation now in progress (29).
+[4651] [Step Debug] ERR: Could not connect to debugging client. Tried: host.lando.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[4651] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[4651] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[4651] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[4651] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.lando.internal:9003.
+[4651] [Step Debug] WARN: Creating socket for 'host.lando.internal:9003', poll success, but error: Operation now in progress (29).
+[4651] [Step Debug] ERR: Could not connect to debugging client. Tried: host.lando.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[4651] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[4651] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[4651] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[4651] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.lando.internal:9003.
+[4651] [Step Debug] WARN: Creating socket for 'host.lando.internal:9003', poll success, but error: Operation now in progress (29).
+[4651] [Step Debug] ERR: Could not connect to debugging client. Tried: host.lando.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[4651] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[4651] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[4651] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[4651] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.lando.internal:9003.
+[4651] [Step Debug] WARN: Creating socket for 'host.lando.internal:9003', poll success, but error: Operation now in progress (29).
+[4651] [Step Debug] ERR: Could not connect to debugging client. Tried: host.lando.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[4651] Log closed at 2024-12-18 13:56:01.552178
+
+[4674] Log opened at 2024-12-18 13:56:19.569621
+[4674] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.4674'
+[4674] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[4674] [Config] INFO: No shared secret: Activating
+[4674] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[4674] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[4674] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[4674] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.lando.internal:9003.
+[4674] [Step Debug] WARN: Creating socket for 'host.lando.internal:9003', poll success, but error: Operation now in progress (29).
+[4674] [Step Debug] ERR: Could not connect to debugging client. Tried: host.lando.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[4674] Log opened at 2024-12-18 13:56:19.591929
+[4674] [Config] WARN: Can't bind control socket
+[4674] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[4674] [Config] INFO: No shared secret: Activating
+[4674] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[4674] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[4674] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[4674] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.lando.internal:9003.
+[4674] [Step Debug] WARN: Creating socket for 'host.lando.internal:9003', poll success, but error: Operation now in progress (29).
+[4674] [Step Debug] ERR: Could not connect to debugging client. Tried: host.lando.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[4674] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[4674] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[4674] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[4674] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.lando.internal:9003.
+[4674] [Step Debug] WARN: Creating socket for 'host.lando.internal:9003', poll success, but error: Operation now in progress (29).
+[4674] [Step Debug] ERR: Could not connect to debugging client. Tried: host.lando.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[4674] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[4674] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[4674] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[4674] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.lando.internal:9003.
+[4674] [Step Debug] WARN: Creating socket for 'host.lando.internal:9003', poll success, but error: Operation now in progress (29).
+[4674] [Step Debug] ERR: Could not connect to debugging client. Tried: host.lando.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[4674] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[4674] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[4674] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[4674] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.lando.internal:9003.
+[4674] [Step Debug] WARN: Creating socket for 'host.lando.internal:9003', poll success, but error: Operation now in progress (29).
+[4674] [Step Debug] ERR: Could not connect to debugging client. Tried: host.lando.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[4674] Log closed at 2024-12-18 13:56:19.837854
+
+[4703] Log opened at 2024-12-18 13:57:00.467789
+[4703] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.4703'
+[4703] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[4703] [Config] INFO: No shared secret: Activating
+[4703] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[4703] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[4703] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[4703] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.lando.internal:9003.
+[4703] [Step Debug] WARN: Creating socket for 'host.lando.internal:9003', poll success, but error: Operation now in progress (29).
+[4703] [Step Debug] ERR: Could not connect to debugging client. Tried: host.lando.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[4703] Log opened at 2024-12-18 13:57:00.490443
+[4703] [Config] WARN: Can't bind control socket
+[4703] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[4703] [Config] INFO: No shared secret: Activating
+[4703] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[4703] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[4703] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[4703] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.lando.internal:9003.
+[4703] [Step Debug] WARN: Creating socket for 'host.lando.internal:9003', poll success, but error: Operation now in progress (29).
+[4703] [Step Debug] ERR: Could not connect to debugging client. Tried: host.lando.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[4703] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[4703] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[4703] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[4703] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.lando.internal:9003.
+[4703] [Step Debug] WARN: Creating socket for 'host.lando.internal:9003', poll success, but error: Operation now in progress (29).
+[4703] [Step Debug] ERR: Could not connect to debugging client. Tried: host.lando.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[4703] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[4703] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[4703] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[4703] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.lando.internal:9003.
+[4703] [Step Debug] WARN: Creating socket for 'host.lando.internal:9003', poll success, but error: Operation now in progress (29).
+[4703] [Step Debug] ERR: Could not connect to debugging client. Tried: host.lando.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[4703] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[4703] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[4703] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[4703] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.lando.internal:9003.
+[4703] [Step Debug] WARN: Creating socket for 'host.lando.internal:9003', poll success, but error: Operation now in progress (29).
+[4703] [Step Debug] ERR: Could not connect to debugging client. Tried: host.lando.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[4703] Log closed at 2024-12-18 13:57:00.779926
+
+[4721] Log opened at 2024-12-18 13:57:29.210158
+[4721] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.4721'
+[4721] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[4721] [Config] INFO: No shared secret: Activating
+[4721] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[4721] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[4721] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[4721] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.lando.internal:9003.
+[4721] [Step Debug] WARN: Creating socket for 'host.lando.internal:9003', poll success, but error: Operation now in progress (29).
+[4721] [Step Debug] ERR: Could not connect to debugging client. Tried: host.lando.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[4721] Log opened at 2024-12-18 13:57:29.232437
+[4721] [Config] WARN: Can't bind control socket
+[4721] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[4721] [Config] INFO: No shared secret: Activating
+[4721] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[4721] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[4721] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[4721] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.lando.internal:9003.
+[4721] [Step Debug] WARN: Creating socket for 'host.lando.internal:9003', poll success, but error: Operation now in progress (29).
+[4721] [Step Debug] ERR: Could not connect to debugging client. Tried: host.lando.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[4721] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[4721] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[4721] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[4721] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.lando.internal:9003.
+[4721] [Step Debug] WARN: Creating socket for 'host.lando.internal:9003', poll success, but error: Operation now in progress (29).
+[4721] [Step Debug] ERR: Could not connect to debugging client. Tried: host.lando.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[4721] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[4721] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[4721] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[4721] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.lando.internal:9003.
+[4721] [Step Debug] WARN: Creating socket for 'host.lando.internal:9003', poll success, but error: Operation now in progress (29).
+[4721] [Step Debug] ERR: Could not connect to debugging client. Tried: host.lando.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[4721] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[4721] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[4721] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[4721] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.lando.internal:9003.
+[4721] [Step Debug] WARN: Creating socket for 'host.lando.internal:9003', poll success, but error: Operation now in progress (29).
+[4721] [Step Debug] ERR: Could not connect to debugging client. Tried: host.lando.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[4721] Log closed at 2024-12-18 13:57:29.477484
+

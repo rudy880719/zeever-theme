@@ -1,0 +1,30 @@
+.digital-agency .block-hero {
+	background-color: black;
+	padding: 0;
+}
+
+.digital-agency .block-content-wrapper h2 {
+	margin: 3rem auto;
+	font-size: 3rem;
+	font-weight: 600;
+}
+
+.digital-agency .l-top .block {
+	margin-bottom: 0;
+}
+
+.digital-agency .block-smart-blocks-smartblocksheroblock {
+  padding-top: 20px;
+}
+
+.digital-agency .view-display-id-block .view-header {
+  background-color: transparent;
+  padding: 0;
+  margin-bottom: 0;
+}
+
+/* Testimonials */
+
+.view-testimonials .views-field-body {
+	color: black;
+}

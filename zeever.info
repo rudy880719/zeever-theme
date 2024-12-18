@@ -1,0 +1,25 @@
+name = Zeever
+description = Built to use Bootstrap; a sleek, intuitive, and powerful front-end framework for faster and easier web development.
+backdrop = 1.x
+type = theme
+
+settings[zeever_cdn] = 5.0.1
+settings[zeever_container] = container
+settings[zeever_navbar_position] = static-top
+settings[zeever_navbar_menu_position] = navbar-left
+
+tags[] = Bootstrap
+
+stylesheets[all][] = css/style.css
+stylesheets[all][] = css/components/menu-dropdown.breakpoint.css
+stylesheets[all][] = css/components/menu-dropdown.breakpoint-queries.css
+stylesheets[all][] = css/components/menu-dropdown.css
+stylesheets[all][] = css/components/menu-toggle.css
+stylesheets[all][] = css/components/menu.css
+stylesheets[all][] = css/components/hero.css
+stylesheets[all][] = css/components/cards.css
+stylesheets[all][] = css/components/zeever-views.css
+stylesheets[all][] = css/components/taxonomy.css
+stylesheets[all][] = css/components/responsive.css
+stylesheets[all][] = css/recipes.css
+

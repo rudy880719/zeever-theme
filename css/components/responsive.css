@@ -27,8 +27,14 @@
   padding-top: 0.125rem;
 }
 
+.navbar-header .navbar-toggler .toggle-nav:hover {
+  text-decoration: none;
+  color: #6da843;
+}
+
 .navbar-header .navbar-toggler .toggle-nav--active {
   color: #6da843;
+  text-decoration: none;
 }
 
 
